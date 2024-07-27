@@ -13,5 +13,5 @@
 
 <h4>Atualização:</h4>
 <ul>
-  <li>Última Atualização: 27/07/2024</li>
+  <li>Última Atualização: 17/07/2024</li>
 </ul>
